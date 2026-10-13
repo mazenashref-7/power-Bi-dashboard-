@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that analyzes UK road accident casualties, comparing the **current year (CY)** against the **previous year (PY)** to uncover where, when, and how accidents happen.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Dashboard_Photo/dashboard.png)
 
 ## 📌 Project Overview
 
